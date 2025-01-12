@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3326";
 .formatVersion = 3;
 DisplayStrings = (
 "AA AG OAO AQA AT AU AV AW AY
@@ -98,7 +98,7 @@ name = Uppercase;
 }
 );
 date = "2024-02-08 17:25:47 +0000";
-familyName = "School Sans test";
+familyName = "School Sans";
 featurePrefixes = (
 {
 automatic = 1;
